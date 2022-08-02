@@ -10,57 +10,7 @@
 
  body {
      font-family: 'Poppins', sans-serif;
-    /* background-color: #e699a6;
-    animation: example 10s infinite ease; */
  }
-
-  @keyframes example {
-
-      0% {
-          background-color: #e69999;
-      }
-
-      10% {
-          background-color: #e699a6;
-      }
-
-      20% {
-          background-color: #e699d2;
-      }
-
-      30% {
-          background-color: #cc99e6;
-      }
-
-      40% {
-          background-color: #9f99e6;
-      }
-
-      50% {
-          background-color: #99bfe6;
-      }
-
-      60% {
-          background-color: #99e6df;
-      }
-
-      70% {
-          background-color: #99e6b3;
-      }
-
-      80% {
-          background-color: #d9e699;
-      }
-
-      90% {
-          background-color: #e6c699;
-      }
-
-      100% {
-          background-color: #e69999;
-      }
-  }
-
 
 /* ----------------------navigation designs--------------- */
 
